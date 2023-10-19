@@ -1,7 +1,7 @@
 {
   "vendor": "canvasskin",
-  "name": "store-theme",
-  "version": "5.1.0",
+  "name": "csstorem",
+  "version": "0.0.1",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
