@@ -1,6 +1,6 @@
 {
-  "vendor": "canvasskin",
-  "name": "csstorem",
+  "vendor": "vtex",
+  "name": "store-them",
   "version": "0.0.1",
   "builders": {
     "styles": "2.x",
